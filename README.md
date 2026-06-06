@@ -26,9 +26,15 @@ Response times cut by 25%. Available immediately.
 Google Workspace | Microsoft 365 | Salesforce | HubSpot |
 Slack | Asana | Trello | Notion | ClickUp | Expensify |
 Concur | QuickBooks | Zendesk | Freshdesk | Rippling |
-LastPass | Buffer | Later | Meta Business Suite | DocuSign | Loom## Hi there 👋
+LastPass | Buffer | Later | Meta Business Suite | DocuSign | Loom | Zapier 
 
-<!--
+---
+
+### Find Me
+- Portfolio: https://abigailade.netlify.app
+- Email: abigailofficialva@gmail.com
+- LinkedIn: https://linkedin.com/in/abigail-ede-a87970253
+- Location: Nigeria | Remote | GMT, CET, EST, PST<!--
 **abigailofficialva-design/abigailofficialva-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
