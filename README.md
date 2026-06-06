@@ -1,4 +1,32 @@
-## Hi there 👋
+# Abigail Ede
+## Remote Executive Assistant | Operations Specialist
+
+I am the reason the COO sleeps well at night.
+
+3 years. C-suite only. Zero scheduling conflicts in 22 months.
+Response times cut by 25%. Available immediately.
+
+---
+
+### What I Do
+- Executive Calendar & Diary Management
+- Inbox & Email Management
+- Domestic & International Travel Coordination
+- Vendor Management & Coordination
+- Expense Tracking & Reconciliation
+- CRM Administration
+- Social Media Management
+- SOP Development & Process Improvement
+- IT & Onboarding Support
+- Stakeholder & Executive Communications
+
+---
+
+### Tools I Use
+Google Workspace | Microsoft 365 | Salesforce | HubSpot |
+Slack | Asana | Trello | Notion | ClickUp | Expensify |
+Concur | QuickBooks | Zendesk | Freshdesk | Rippling |
+LastPass | Buffer | Later | Meta Business Suite | DocuSign | Loom## Hi there 👋
 
 <!--
 **abigailofficialva-design/abigailofficialva-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
